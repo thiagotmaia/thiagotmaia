@@ -1,43 +1,71 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8e44ad&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile.;My+name+is+Thiago+Maia.;I’m+a+Software+Developer.)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Thiago%20Maia&fontSize=40&fontColor=a78bfa&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%40%20NTT%20DATA&descAlignY=58&descSize=17&descColor=c9c9d9"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Dynamics+365+%7C+Power+Platform;C%23+%7C+.NET+%7C+JavaScript+%7C+Azure" alt="Typing SVG" />
+</a>
 
-### 👨‍💻 About Me
+<p align="center"><i>Turning business requirements into scalable software solutions across the Microsoft ecosystem.</i></p>
 
-- 🏟️ Currently working on **personal projects**
-- 🧑‍💼 Working at **Best Projects** as a **Software Developer**
-- 💬 Ask me about **Java, C#, .NET, and JavaScript**
-- 📨 Reach me at: [dev.tmaia@gmail.com](mailto:dev.tmaia@gmail.com)
-- 🌍 Based in **São Paulo, Brazil**
+<br/><br/>
 
----
+<a href="https://www.linkedin.com/in/torres-thiago09/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
+</a>
+<a href="mailto:dev.tmaia@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
+</a>
+<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20Brazil-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" />
 
-### 💻 Main Skills
+</div>
 
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)
+<br/>
 
----
+## About Me
 
-### 🧰 Tools
+Software Developer at **NTT DATA**, based in São Paulo, working mainly with **Microsoft Dynamics 365, Power Platform, C#, .NET, JavaScript, and Azure**.
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)
-![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
-![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&labelColor=0D1117)
+Focused on business applications, integrations, automation, and backend development, while also exploring AI and Computer Vision through personal projects.
 
----
+<br/>
 
-### 📘 Currently Learning
+## Certifications
 
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)
+<div align="left">
+  <img src="https://img.shields.io/badge/PL--200-Microsoft%20Power%20Platform%20Functional%20Consultant-1a1a2e?style=flat-square&logo=microsoft&logoColor=A78BFA" /><br/>
+  <img src="https://img.shields.io/badge/PL--400-Microsoft%20Power%20Platform%20Developer-1a1a2e?style=flat-square&logo=microsoft&logoColor=A78BFA" /><br/>
+  <img src="https://img.shields.io/badge/PL--600-Microsoft%20Power%20Platform%20Solution%20Architect-1a1a2e?style=flat-square&logo=microsoft&logoColor=A78BFA" />
+</div>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Tools & Platforms</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,azure,git,github,mysql,postgres,postman&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Currently Exploring</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,linux,nodejs,nextjs&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thiagotmaia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9d9" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=thiagotmaia&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
